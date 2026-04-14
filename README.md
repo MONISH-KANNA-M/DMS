@@ -1,5 +1,3 @@
----
-
 ```markdown id="dms01"
 # 📂 Document Management System (DMS)
 
